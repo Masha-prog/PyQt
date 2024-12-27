@@ -1,6 +1,6 @@
 import sys
 from random import randint
-from PyQt6 import uic
+from UI.py import UI_MainWindow
 from PyQt6.QtWidgets import QApplication, QMainWindow
 from PyQt6.QtGui import QPainter, QColor, QPen
 from PyQt6.QtCore import QPoint
